@@ -1,7 +1,7 @@
 import React from "react"
 import { Routes, Route, Navigate, useLocation } from "react-router-dom"
 import ProtectedRoute from "./utils/protected-routes"
-import LoginModal from "./components/LoginModal"
+import LoginModal from "./components/LoginModal";
 import Header from "./components/Header"
 import Footer from "./components/Footer"
 import ChangePasswordModal from "./components/LostPasswordModal"
