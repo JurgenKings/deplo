@@ -898,7 +898,7 @@ function Header() {
             <div className="row align-items-center">
               <div className="col-xl-3 col-lg-2 col-sm-6">
                 <a href="/" className="mad-logo">
-                  <img src="/images/logo2.png" alt="" />
+                  <img src="/images/logo.png" alt="" />
                 </a>
               </div>
               <div className="col-xl-6 col-lg-6">
