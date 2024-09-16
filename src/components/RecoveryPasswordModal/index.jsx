@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react"
-import Loading from "../Loading"
+import Loading from "../loading"
 import "../../components/LoginModal/LoginModal.css"
 import { validateEmail } from "../../utils/ValidationSchema"
 import { CheckIcon } from "../CustomIcons"

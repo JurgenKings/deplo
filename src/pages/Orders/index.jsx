@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react"
 import Breadcrumb from "../../components/Breadcrumb"
-import Loading from "../../components/Loading"
+import Loading from "../../components/loading"
 import OrderDetailModal from "../../components/OrderDetailModal"
 import NewsLetter from "../../components/NewsLetter"
 import FilterWithSearch from "../../components/FilterWithSearch"

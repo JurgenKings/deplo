@@ -3,7 +3,7 @@ import { Link, useNavigate } from "react-router-dom";
 import LoginModal from "../LoginModal";
 import RegisterModal from "../RegisterModal";
 import RecoveryPasswordModal from "../RecoveryPasswordModal";
-import Loading from "../Loading";
+import Loading from "../loading";
 import Notifications from "../Notifications";
 import { detectLocation } from "../../services/location"
 import "./Header.css"

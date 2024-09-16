@@ -1,5 +1,5 @@
 import { useState } from "react"
-import Loading from "../Loading"
+import Loading from "../loading"
 import { validatePassword } from "../../utils/ValidationSchema"
 import { CheckIcon } from "../CustomIcons"
 

@@ -1,5 +1,5 @@
 import { useState } from "react"
-import Loading from "../Loading"
+import Loading from "../loading"
 import { validateAge, validateEmail, validateFullName, validatePassword } from "../../utils/ValidationSchema"
 import "./RegisterModal.css"
 

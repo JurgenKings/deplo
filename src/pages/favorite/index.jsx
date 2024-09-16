@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react"
 import toast, { Toaster } from "react-hot-toast"
-import Loading from "../../components/Loading"
+import Loading from "../../components/loading"
 import Breadcrumb from "../../components/Breadcrumb"
 import NewsLetter from "../../components/NewsLetter"
 import FilterWithoutSearch from "../../components/FilterWithoutSearch"

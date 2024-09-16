@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react"
-import Loading from "../../components/Loading"
+import Loading from "../../components/loading"
 import PurchaseDetailModal from "../../components/PurchaseDetailModal"
 import Breadcrumb from "../../components/Breadcrumb"
 import EditPersonalDataModal from "../../components/EditPersonalDataModal"

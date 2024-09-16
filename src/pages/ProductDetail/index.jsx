@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react"
-import Loading from "../../components/Loading"
+import Loading from "../../components/loading"
 import ImageSkeleton from "./ImageSkeleton"
 import NewsLetter from "../../components/NewsLetter"
 import "./ProductDetail.css"

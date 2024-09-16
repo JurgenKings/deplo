@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react"
-import Loading from "../Loading"
+import Loading from "../loading"
 import "./CreatePaymentMethodModal.css"
 
 function CreatePaymentMethodModal({ isOpen, onClose, addMethod }) {
