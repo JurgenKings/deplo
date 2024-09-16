@@ -1,0 +1,17 @@
+.jorge-button-pagination {
+    font-weight: bold;
+    display: block;
+    width: 2rem;
+    height: 2rem;
+    text-align: center;
+    font-size: 0.875rem;
+    line-height: 2rem;
+    background: #dce3e6;
+    color: #2e3133;
+    border-radius: 50%;
+ 
+    &:hover {
+       background: #26658c;
+       color: #fff;
+    }
+ }

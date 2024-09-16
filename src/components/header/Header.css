@@ -1,0 +1,34 @@
+.jorge-input-container-suggestion {
+  position: relative;
+}
+
+.suggestions {
+  border: 1px solid #ccc;
+  max-height: 200px;
+  overflow-y: auto;
+  border-radius: 1rem;
+  width: 92%;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  z-index: 999;
+  position: absolute;
+  top: 4.5rem;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+}
+
+.suggestion {
+  padding: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.selected {
+  background-color: #d1d0d0;
+}
+
+.suggestion:hover {
+  background-color: #d1d0d0;
+}

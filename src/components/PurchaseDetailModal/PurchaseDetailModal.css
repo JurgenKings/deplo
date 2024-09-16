@@ -1,0 +1,40 @@
+.jorge-container-table-modal {
+  overflow-y: scroll !important;
+  max-height: 20.5rem !important;
+}
+
+.jorge-tbody-modal {
+  height: 20rem !important;
+}
+
+.jorge-title-modal {
+  font-size: 3rem;
+}
+
+.jorge-table-footer-modal {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 0.5rem;
+}
+
+@media (max-width: 832px) {
+  .jorge-container-table-modal {
+    max-height: 16.5rem !important;
+  }
+}
+
+@media (max-width: 520px) {
+  .jorge-container-table-modal {
+    max-height: 16.5rem !important;
+  }
+
+  .jorge-title-modal {
+    font-size: 2rem;
+  }
+
+  .jorge-table-footer-modal {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+}
